@@ -3,16 +3,19 @@
 :root {
     --cor-de-fundo: #1E1E1E;
     --verde: #6e26b1;
-    --branco: #FFFFFF;
+    --branco: #79ecec;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
     --texto-fundo: rgba(58, 55, 94, 0.3);
 }
 
 body {
+    background-repeat: no-repeat;
+  background-size: cover;
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
+    background-image: url('https://4kwallpapers.com/images/walls/thumbs_3t/8324.png');
 }
 
 

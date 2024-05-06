@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
-    --verde: #6e26b1;
+    --verde: #13a177;
     --branco: #79ecec;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -13,7 +13,7 @@ body {
   background-size: cover;
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
-    background-image: url('https://4kwallpapers.com/images/walls/thumbs_3t/8324.png');
+    background-image: url('https://images.hdqwalls.com/download/retro-synthwave-sunrise-4k-tv-1366x768.jpg');
 }
 
 
